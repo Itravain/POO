@@ -1,4 +1,3 @@
-//crie a classe cliente com os seguintes atributos e um contrutrutor para inicializar os atributos: nome, idade, cpf, sexo, telefone, email
 export class Cliente {
     nome: string;
     idade: number;
