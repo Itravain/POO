@@ -1,4 +1,3 @@
-//crie uma classe com o nome Bike com os atributos abaixo: marca, ano, horas de uso, valor e cor
 export class Bike {
     marca: string;
     horasDeUso: number = 0;
