@@ -1,4 +1,3 @@
-//crie um exemplo que utiliza todos os metodos e atributos das classes criadas
 import { Bike } from "./bike";
 import { Cliente } from "./cliente";
 import { Aluguel } from "./aluguel";
